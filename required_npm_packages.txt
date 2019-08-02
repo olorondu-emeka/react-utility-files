@@ -1,0 +1,7 @@
+axios
+chart.js
+react-chartjs-2
+react-countup               // for animated counting of numbers
+react-router-dom            // for routing/pagination
+redux
+slugify                     // for generating slugs
